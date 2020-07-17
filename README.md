@@ -1,6 +1,8 @@
 # ScreenSnip
 Windows python GUI for Google's Tesseract OCR engine
 
+<img src="https://i.imgur.com/4fejZwz.gif"/>
+
 # Libraries to install
 - `pip install mss` for screen capture
 - `pip install Pillow` for image file reading
